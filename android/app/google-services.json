@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "717473668621",
+    "firebase_url": "https://intelligent-674f4-default-rtdb.firebaseio.com",
+    "project_id": "intelligent-674f4",
+    "storage_bucket": "intelligent-674f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717473668621:android:9a386e845902c8eec4bf44",
+        "android_client_info": {
+          "package_name": "com.example.intelligent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717473668621-29vlnj6u2qd2ha400329a48kq4t39eq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyxyoH4VPhIZAEu2k2DQljxiPglFhOWtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717473668621-29vlnj6u2qd2ha400329a48kq4t39eq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

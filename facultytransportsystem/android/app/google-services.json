@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "711758481873",
+    "project_id": "faculty-transport-system",
+    "storage_bucket": "faculty-transport-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711758481873:android:c81ab5ea70403affa938f0",
+        "android_client_info": {
+          "package_name": "com.example.facultytransportsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711758481873-q69gkgqtrbsuurir5t56mqep3pbrlqeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAghmwl2ONB6wnDoHWie7huA_Ondpn5d_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711758481873-q69gkgqtrbsuurir5t56mqep3pbrlqeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
